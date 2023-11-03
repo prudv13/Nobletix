@@ -67,3 +67,52 @@ When you empathize with someone, you share their mental and emotional experience
 - Give users a chance to share any final thoughts
 - Always thank the participant again for their time
 - Offer any kind of incentive to the participant
+
+# Empathy Maps
+
+Empathy maps are easily understood charts that explain what UX designers have learned about a particular type of user. Empathy maps can help break down each interview into digestible pieces of information.
+
+### Creating an Empathy Map -
+
+### Step 1: Add the user’s name.
+
+```
+- Include the name of the person interviewed in your empathy map.
+- Having a name attached to it will help if you ever need to look back at the original transcript or research, and it’ll distinguish this map from other maps you create.
+```
+
+### Step 2: SAYS
+
+```
+- write down exactly what the person said.
+- pay special attention to challenges your user states
+- record any desired benefits or expectations they mention.
+```
+
+### Step 3: THINKS
+
+```
+- summarize the thoughts expressed by the user.
+- add feelings the user conveyed through body language, tone, or other noticeable indicators.
+```
+
+### Step 3: DOES
+
+```
+- write down the action the user takes when using a product
+```
+
+### Step 4: Feels
+
+```
+- List the feelings the user expresses.
+- The notes you include may overlap with some of what you listed in the “THINKS” square.
+```
+
+# Types Of Empathy Maps
+
+It's important to understand that there are two types of empathy maps: one-user empathy maps and aggregated empathy maps (also known as "multiple-user empathy maps").
+
+One-user empathy maps are created by taking the data from one user's interview and turning it into an empathy map, like the example earlier in this reading. This approach helps designers distill a single user's thoughts, feelings, and traits into a format that's easier to gather data from.
+
+The other kind of empathy map, an aggregated empathy map, represents a group of users who share similar thoughts, opinions, or qualities. Aggregated empathy maps are created by creating multiple one-user empathy maps, then combining the maps where users expressed similar things into a new empathy map. This helps designers identify segments, or groups of people with similar tendencies, who will use the product. The insights in aggregated empathy maps allow designers to identify themes, which helps them better empathize with the groups they are designing for.
