@@ -1,5 +1,7 @@
 # User Persona
 
+![user-persona](https://res.cloudinary.com/dqab7rimk/image/upload/v1699085508/UX%20Case%20Study/personas/User_Persona_1_zlzubk.png)
+
 Name: Vivek
 
 Age: 25
