@@ -127,3 +127,12 @@ Any UX issues that frustrate the user and block the user from getting what they 
 2. Product pain points are quality issues related to the product. Norman doors fall into this category.
 3. Process pain points are frustrations that stop the user going from point A to point B.
 4. Support pain points, when users interact with the product they might have questions, if they can't find answers, they won't feel supported. Customer service information that is hidden on the website falls into this category.
+
+# Personas
+
+Fictional users whose goals and characteristics represent the needs of a larger group of users. Personas are built based on research.
+
+- Build empathy: help humanize our users
+- Tell stories: turns average stakeholder presentation into a story telling experience.
+- One persona isn't enough, Create a set of personas.
+- Stress-text designs: time, accessibility, different needs.
