@@ -136,3 +136,23 @@ Fictional users whose goals and characteristics represent the needs of a larger 
 - Tell stories: turns average stakeholder presentation into a story telling experience.
 - One persona isn't enough, Create a set of personas.
 - Stress-text designs: time, accessibility, different needs.
+
+# User Stories
+
+- A fictional one-sentence story told from the person's point of view to inspire and inform design decisions.
+- Scenarios / User cases.
+- Deepens your understanding of a user group.
+- Prioritize design goals.
+- Unite the team under clear goal
+- Inspire empathetic design decisions (user centered approach)
+- Personalize pitches to stakeholders
+- Hero + goal + conflict that keeps them from conquering that goal.
+
+```
+As a _________________, I want to ___________, so that ___________.
+      [type of user]                [action]            [benefit]
+```
+
+- Type of User : who we are desgining for.
+- Action : what the user hopes will happen.
+- Benefit : why the user wants the action to happen.
