@@ -116,3 +116,14 @@ It's important to understand that there are two types of empathy maps: one-user 
 One-user empathy maps are created by taking the data from one user's interview and turning it into an empathy map, like the example earlier in this reading. This approach helps designers distill a single user's thoughts, feelings, and traits into a format that's easier to gather data from.
 
 The other kind of empathy map, an aggregated empathy map, represents a group of users who share similar thoughts, opinions, or qualities. Aggregated empathy maps are created by creating multiple one-user empathy maps, then combining the maps where users expressed similar things into a new empathy map. This helps designers identify segments, or groups of people with similar tendencies, who will use the product. The insights in aggregated empathy maps allow designers to identify themes, which helps them better empathize with the groups they are designing for.
+
+# User Pain Points
+
+Any UX issues that frustrate the user and block the user from getting what they need.
+
+### Types of Pain Points - 
+
+1. Financial pain points are user problems related to money, like paywall interruptions.
+2. Product pain points are quality issues related to the product. Norman doors fall into this category.
+3. Process pain points are frustrations that stop the user going from point A to point B.
+4. Support pain points, when users interact with the product they might have questions, if they can't find answers, they won't feel supported. Customer service information that is hidden on the website falls into this category.
