@@ -156,3 +156,16 @@ As a _________________, I want to ___________, so that ___________.
 - Type of User : who we are desgining for.
 - Action : what the user hopes will happen.
 - Benefit : why the user wants the action to happen.
+
+# User Journey
+
+The series of experiences a user has as they achieve a specific goal.
+- Helps create obstacle free paths for users
+- Reduces impact of designer bias
+- Highlights new pain points
+- Identifies improvement opportunities
+
+# Accessibility
+
+- Accessibility is not just designing to include a group of users with varying abilities.
+- Instead, it extends to anyone who is experiencing a permanent, temporary or situational disability.
