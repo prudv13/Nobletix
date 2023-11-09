@@ -46,3 +46,22 @@ When does the problem occur? Maybe it’s right after the end of a long and tedi
 Why is the problem important? Knowing how this problem affects your user’s experience and life will help to clarify the potential consequences.
 
 How are users reaching their goals by using the product? Understanding how users reach their goals allows you to map the user journey that they take through your product.
+
+# Hypothesis Statement
+
+Our best educated guess on what we think the solution to a design might be
+
+```
+
+if ____________________________________________
+                    [ action ]
+
+then __________________________________________
+                    [ outcome ]
+
+```
+
+Hypothesis statements don’t have a single standard formula to follow, but there are two common methods you can try using to write one.
+- First, you can use the if / then format to come up with a hypothesis statement.
+- Second, you can use the we believe format to come up with a hypothesis statement.
+- If / then statements focus directly on the needs of users. On the other hand, we believe statements take the perspective of your team into account, while remaining empathetic to the needs of users.
