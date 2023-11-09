@@ -65,3 +65,19 @@ Hypothesis statements don’t have a single standard formula to follow, but ther
 - First, you can use the if / then format to come up with a hypothesis statement.
 - Second, you can use the we believe format to come up with a hypothesis statement.
 - If / then statements focus directly on the needs of users. On the other hand, we believe statements take the perspective of your team into account, while remaining empathetic to the needs of users.
+
+# Value Proposition
+
+The reason why a consumer should use a product or service
+
+what does your product do ? Clearly explain the offering that your product provides users.
+
+why should the user care ? Describe how your product addresses users’ pain points.
+
+- Step 1. Describe your product’s features and benefits. Create a list of all the great features and benefits of your product, big and small.
+- Step 2. Explain the value of the product. Anything that you identify as a value proposition needs to be beneficial to your users.
+- Step 3. Connect these features and benefits with the needs of your users. The goal is to identify what’s truly valuable to the user and not just a cool feature that users didn’t ask for.
+
+To determine value, take the personas you’ve developed and pair each persona with a value proposition that meets their biggest pain point.
+
+- Step 4. Review your official value proposition list. You’ve narrowed your list down of lots of benefits and features by matching them with actual user needs. Now it’s time to review the list of value propositions your product offers.
