@@ -54,3 +54,25 @@ by __________________________________________________________________________
 we will measure effectiveness by ____________________________________________
                                  [describe how you will measure the impact]
 ```
+
+## User Flow
+
+The path taken by a typical user on an app or a website, so they can complete a task from start to finish.
+
+UX designers often outline user flows with common shapes: circles, rectangles, diamonds, and lines with arrows.
+
+### Action -
+- The actions users take when moving through a product design are represented as circles.
+- In other words, circles show steps that must be taken to complete a task from start to finish.
+
+### Screen - 
+- The screens of a digital product that users will experience while completing tasks are represented as rectangles.
+
+### Decision - 
+- Diamonds represent points in the user flow where users must ask a question and make a decision.
+- The decision users make will either move them forward through the flow or back to an earlier part of the flow.
+
+### User flow direction -
+- Lines with arrows tie everything together and display the flow of information.
+- Solid lines indicate forward direction through the user flow.
+- Dotted lines indicate backward direction or returning to a previous page.
