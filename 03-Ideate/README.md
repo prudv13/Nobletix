@@ -33,3 +33,24 @@ An overview of your competitor's strengths and weaknesses.
 - Revealing the ways that current products in the market are not meeting users’ needs. This is a gap for your product to address!
 - Demonstrating the expected life cycle of a product in the same market as yours.
 - Informing all the different iterations your product could take and how those performed for your competitors.
+
+## Goal Statement
+
+- What the product lets users do
+- Who the action affects
+- Why the action positively affects users
+- How the effectiveness of the product is measured
+
+```
+
+Our _________________________________________________________________________
+                              [product]
+will let users ______________________________________________________________
+                              [perform specific actions]
+which will affect ___________________________________________________________
+                    [describe who the action will affect]
+by __________________________________________________________________________
+          [describe how the action will positively affect users]
+we will measure effectiveness by ____________________________________________
+                                 [describe how you will measure the impact]
+```
