@@ -76,3 +76,13 @@ UX designers often outline user flows with common shapes: circles, rectangles, d
 - Lines with arrows tie everything together and display the flow of information.
 - Solid lines indicate forward direction through the user flow.
 - Dotted lines indicate backward direction or returning to a previous page.
+
+## Storyboard
+
+A series of panels or frames that visually describe and explore a user's experience with a product.
+
+Four elements of a storyboard
+- character: user in your story
+- scene: helps us imagine user's environment
+- plot: benefit or solution of the design
+- narrative: user's need or problem and how the design will solve the problem

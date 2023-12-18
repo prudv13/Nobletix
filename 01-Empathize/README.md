@@ -1,4 +1,4 @@
-# Empathize with Users
+;# Empathize with Users
 
 Empathizing with potential users is important to every step of the design thinking process.
 
